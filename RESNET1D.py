@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 15 11:48:20 2025
-
 RESNETWANG ENSEMBLE 5 MODELOS
 """
 
