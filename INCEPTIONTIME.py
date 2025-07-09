@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 MODELO
-INCEPTIONTIME 
+INCEPTIONTIME + ENSEMBLE 5 MODELOS
 """
 import os
 import numpy as np
