@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul  4 16:15:11 2025
-
-@author: maric
+Visualización casos correctamente e incorrectamente clasificados por el modelo ResNet1D
 """
 import os
 import numpy as np
