@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 16 23:05:56 2025
-ENSEMBLE bI-gru +X-RESNET1D-101
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 16 16:08:53 2025
-
-@author: maric
-"""
 
 """
 Late Fusion (Promedio) entre ECGresNet y Bi-GRU
