@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun  9 16:45:06 2025
-
 modelo:  BiGru+ ensemble de 5
 """
 import os
